@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nihilknight.github.io/sitemap.xml
